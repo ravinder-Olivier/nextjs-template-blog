@@ -26,9 +26,3 @@ This is how your blog posts will be written, the top meta info will not be shown
 ## Customizing
 
 You can edit the favicon in /public/images, or you can change the header and footer in /components/layout.js.
-
-
-
-
-
-
