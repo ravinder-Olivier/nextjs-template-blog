@@ -1,6 +1,6 @@
 # NextJS-Template-Blog
 
-Credit: [@ravinder-Olivier](https://github.com/ravinder-Olivier)
+Credit: [@ravinder-Olivier](https://github.com/ravinder-Olivier) [![Dependency Review](https://github.com/ravinder-Olivier/NextJS-Template-Blog/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/ravinder-Olivier/NextJS-Template-Blog/actions/workflows/dependency-review.yml)
 
 ## Getting Started
 
