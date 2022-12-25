@@ -18,10 +18,9 @@ npm install --include-dev
 npm run dev
 ```
 
-Write posts in the /posts folder
-
 ## Writing Posts
 
+Posts are stored in the /posts directory
 ### Format
 
 Posts should follow this format explicitly
