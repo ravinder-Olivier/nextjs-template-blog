@@ -1,20 +1,42 @@
-# Template NextJS Blog
+# NextJS-Template-Blog
 
 Credit: [@ravinder-Olivier](https://github.com/ravinder-Olivier)
 
 ## Getting Started
 
-To test this out execute   npm run dev  in your terminal
+```bash
+# Clone the repository 
+git clone https://github.com/ravinder-Olivier/NextJS-Template-Blog.git
+
+# cd into the directory
+cd NextJS-Template-Blog
+
+# Install dependancies
+npm install --include-dev
+
+# Run the program
+npm run dev
+```
 
 Write posts in the /posts folder
 
 ## Writing Posts
-Images for your posts go in the public/images/  directory 
 
+### Format
+
+Posts should follow this format explicitly
 ![Screen Shot 2022-08-25 at 11 46 09 AM](https://user-images.githubusercontent.com/77025041/186744323-7b764ace-4c06-49c2-a3da-a6744e7a59a4.png)
 
-This is how your blog posts will be written, the top meta info will not be shown in the user page, that is just the greymatter for the system to work properly. More info at [Github.com/jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter)
+The first lines of code on the top will not show in the users view, it's only for the backend funcionality of the article thumbnails and meta; more info at [Github.com/jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter)
 
-## Customizing
+### Images
 
-You can edit the favicon in /public/images, or you can change the header and footer in /components/layout.js.
+Upload images for your posts in the public/images/  directory
+Suggested naming conventions:
+- mm-dd-yy
+- mm-yy-articlename
+
+
+## Customization
+
+You can edit the favicon in /public/images, and can change the header and footer in /components/layout.js.
